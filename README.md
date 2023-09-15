@@ -1,1 +1,1 @@
-# udemy_html_css_js
+# udemyでHTML,CSS,JSの課題を提出する用のリポジトリ
